@@ -10,13 +10,3 @@ Repository link - https://www.kaggle.com/barelydedicated/bank-customer-churn-mod
 
 Model – ANN with dropout regularization
 
-Evaluation: –
-
-              precision    recall  f1-score   support
-
-           0       0.74      0.81      0.78      1593
-           1       0.80      0.72      0.76      1593
-
-    accuracy                           0.77      3186
-   macro avg       0.77      0.77      0.77      3186
-weighted avg       0.77      0.77      0.77      3186
