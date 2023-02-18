@@ -21,9 +21,6 @@ Evaluation: –
 
     accuracy                           0.77      3186
    
-   macro avg       0.77      0.77      0.77      3186
-weighted avg       0.77      0.77      0.77      3186
-
 
 
 
