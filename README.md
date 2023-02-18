@@ -13,6 +13,7 @@ Model – ANN with dropout regularization
 Reference – https://www.youtube.com/watch?v=JnlM4yLFNuo
 
 Evaluation: –
+
               precision    recall  f1-score   support
 
            0       0.74      0.81      0.78      1593
